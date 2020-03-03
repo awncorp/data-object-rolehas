@@ -1,6 +1,43 @@
+
 =encoding utf8
 
-{content}
+=head1 NAME
+
+Data::Object::RoleHas
+
+=cut
+
+=head1 ABSTRACT
+
+Attribute Builder for Data-Object Role
+
+=cut
+
+=head1 SYNOPSIS
+
+  package main;
+
+  # use Data::Object::Role;
+
+  use Data::Object::RoleHas;
+
+  1;
+
+=cut
+
+=head1 DESCRIPTION
+
+This package provides options for defining class attributes.
+
+=cut
+
+=head1 INHERITS
+
+This package inherits behaviors from:
+
+L<Data::Object::Attributes>
+
+=cut
 
 =head1 AUTHOR
 
